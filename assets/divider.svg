@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 34" width="1000" height="34" role="img" aria-label="">
+<line x1="20" y1="17" x2="430" y2="17" stroke="#8b949e" stroke-width="2" opacity=".45"/>
+<line x1="570" y1="17" x2="980" y2="17" stroke="#8b949e" stroke-width="2" opacity=".45"/>
+<g transform="translate(500,17) rotate(-18)" opacity=".9"><g transform="scale(1.05)"><rect x="-13" y="-3.2" width="26" height="6.4" rx="3.2" fill="#8b949e"/><circle cx="-13" cy="-5" r="4.6" fill="#8b949e"/><circle cx="-13" cy="5" r="4.6" fill="#8b949e"/><circle cx="13" cy="-5" r="4.6" fill="#8b949e"/><circle cx="13" cy="5" r="4.6" fill="#8b949e"/></g><animateTransform attributeName="transform" type="rotate" values="-18;-8;-18" dur="4s" repeatCount="indefinite" additive="sum"/></g>
+</svg>
