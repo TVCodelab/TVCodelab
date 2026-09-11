@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/banner.svg" width="100%" alt="heya. i'm natthan - a.k.a. TVCodelab. i build web things, mostly at night.">
+<img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/banner-pt.svg" width="100%" alt="opa. sou o natthan - a.k.a. TVCodelab. faço coisas pra web, de madrugada.">
 
 <br>
 
-<a href="#act"><img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/btn-act.svg" width="23%" alt="ACT - sobre mim"></a>
+<a href="#agir"><img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/btn-agir.svg" width="23%" alt="AGIR - sobre mim"></a>
 <a href="#item"><img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/btn-item.svg" width="23%" alt="ITEM - stack"></a>
-<a href="#fight"><img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/btn-fight.svg" width="23%" alt="FIGHT - projetos"></a>
-<a href="#mercy"><img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/btn-mercy.svg" width="23%" alt="MERCY - contato"></a>
+<a href="#lutar"><img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/btn-lutar.svg" width="23%" alt="LUTAR - projetos"></a>
+<a href="#piedade"><img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/btn-piedade.svg" width="23%" alt="PIEDADE - contato"></a>
 
 <br><br>
 
 [English](https://github.com/TVCodelab/TVCodelab/blob/main/README.md) &nbsp;·&nbsp; **Português**
 
-<img src="https://komarev.com/ghpvc/?username=TVCodelab&style=for-the-badge&color=ffff00&labelColor=000000&label=ENCOUNTERS" alt="visitas no perfil">
+<img src="https://komarev.com/ghpvc/?username=TVCodelab&style=for-the-badge&color=ffff00&labelColor=000000&label=ENCONTROS" alt="visitas no perfil">
 <img src="https://img.shields.io/badge/LV-5-ffff00?style=for-the-badge&labelColor=000000" alt="LV 5">
 <img src="https://img.shields.io/badge/HP-20%2F20-ff0000?style=for-the-badge&labelColor=000000" alt="HP 20/20">
 
@@ -21,15 +21,15 @@
 
 </div>
 
-<a id="act"></a>
+<a id="agir"></a>
 
-## `*` ACT &nbsp;—&nbsp; sobre mim
+## `*` AGIR &nbsp;—&nbsp; sobre mim
 
 <div align="center">
 
 <!-- Caixa de texto do gerador do demirramon. Se um dia parar de carregar,
      é só apagar essa linha que a página continua funcionando normal. -->
-<img src="https://www.demirramon.com/gen/undertale-text-box.gif?message=heya.%20i%27m%20natthan.%20i%20make%20web%20stuff%20and%20i%20never%20sleep.&character=sans&mode=dark&box=undertale&asterisk=true" alt="sans: heya. i'm natthan. i make web stuff and i never sleep.">
+<img src="https://www.demirramon.com/gen/undertale-text-box.gif?message=opa.%20eu%20sou%20o%20natthan.%20fa%C3%A7o%20coisas%20pra%20web%20e%20nunca%20durmo.&character=sans&mode=dark&box=undertale&asterisk=true" alt="sans: opa. eu sou o natthan. faço coisas pra web e nunca durmo.">
 
 </div>
 
@@ -53,11 +53,11 @@
 
 <a id="item"></a>
 
-## `*` ITEM &nbsp;—&nbsp; CHECK
+## `*` ITEM &nbsp;—&nbsp; ver status
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/hp-bars.svg" width="100%" alt="stats: TypeScript, JavaScript, React/Next.js, HTML & CSS, Tailwind, Node.js, Git, Vercel">
+<img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/hp-bars.svg" width="100%" alt="status: TypeScript, JavaScript, React/Next.js, HTML & CSS, Tailwind, Node.js, Git, Vercel">
 
 </div>
 
@@ -65,9 +65,9 @@
 <img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/divider.svg" width="100%" alt="">
 </div>
 
-<a id="fight"></a>
+<a id="lutar"></a>
 
-## `*` FIGHT &nbsp;—&nbsp; projetos em destaque
+## `*` LUTAR &nbsp;—&nbsp; projetos em destaque
 
 <table>
 <tr>
@@ -100,7 +100,7 @@ App de **chat** no espírito do Discord — servidores, canais e conversa que n�
 </tr>
 </table>
 
-### `*` other save files
+### `*` outros saves
 
 | Projeto | O que é | |
 | :--- | :--- | :--- |
@@ -127,14 +127,14 @@ App de **chat** no espírito do Discord — servidores, canais e conversa que n�
 
 </div>
 
-<a id="mercy"></a>
+<a id="piedade"></a>
 
-## `*` MERCY &nbsp;—&nbsp; SPARE
+## `*` PIEDADE &nbsp;—&nbsp; poupar / conversar
 
 <div align="center">
 
 <!-- Caixa de texto do gerador do demirramon. Pode apagar se um dia quebrar. -->
-<img src="https://www.demirramon.com/gen/undertale-text-box.gif?message=you%20spared%20me.%20guess%20we%20can%20talk%20then.&character=sans&mode=dark&box=undertale&asterisk=true" alt="sans: you spared me. guess we can talk then.">
+<img src="https://www.demirramon.com/gen/undertale-text-box.gif?message=voc%C3%AA%20me%20poupou.%20ent%C3%A3o%20acho%20que%20d%C3%A1%20pra%20conversar.&character=sans&mode=dark&box=undertale&asterisk=true" alt="sans: você me poupou. então acho que dá pra conversar.">
 
 <br>
 
@@ -148,8 +148,8 @@ App de **chat** no espírito do Discord — servidores, canais e conversa que n�
 
 <img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/divider.svg" width="100%" alt="">
 
-**`*` (this page is filled with DETERMINATION.)**
+**`*` (esta página está cheia de DETERMINAÇÃO.)**
 
-<sub>welp. thanks for stopping by. don't forget to save. ❤️</sub>
+<sub>enfim. valeu por passar aqui. não esquece de salvar. ❤️</sub>
 
 </div>
