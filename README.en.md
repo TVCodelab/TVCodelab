@@ -80,7 +80,7 @@ A web app for **mental clarity** — notes, mood tracking and daily journaling, 
 
 `TypeScript` &nbsp;`Next.js` &nbsp;`Tailwind`
 
-[![Live](https://img.shields.io/badge/LIVE_DEMO-ffff00?style=for-the-badge&labelColor=000000)](https://nova-mente-gamma.vercel.app)
+[![Live](https://img.shields.io/badge/LIVE_DEMO-ffff00?style=for-the-badge&labelColor=000000)](https://novamentebr.vercel.app)
 [![Code](https://img.shields.io/badge/CODE-ff9a00?style=for-the-badge&labelColor=000000&logo=github)](https://github.com/TVCodelab/NovaMente)
 
 </td>
