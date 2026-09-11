@@ -80,7 +80,7 @@ App web de **clareza mental** — anotações, registro de humor e diário do di
 
 `TypeScript` &nbsp;`Next.js` &nbsp;`Tailwind`
 
-[![Demo](https://img.shields.io/badge/VER_AO_VIVO-ffff00?style=for-the-badge&labelColor=000000)](https://nova-mente-gamma.vercel.app)
+[![Demo](https://img.shields.io/badge/VER_AO_VIVO-ffff00?style=for-the-badge&labelColor=000000)](https://novamentebr.vercel.app)
 [![Codigo](https://img.shields.io/badge/CODIGO-ff9a00?style=for-the-badge&labelColor=000000&logo=github)](https://github.com/TVCodelab/NovaMente)
 
 </td>
