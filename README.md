@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/banner-pt.svg" width="100%" alt="opa. sou o natthan - a.k.a. TVCodelab. faço coisas pra web, de madrugada. você sente uma estranha DETERMINAÇÃO.">
+<img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/banner-pt.svg" width="100%" alt="opa. sou o natthan - a.k.a. TVCodelab. faço coisas pra web. você sente uma estranha DETERMINAÇÃO.">
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/box-sobre-pt.svg" width="100%" alt="sou o natthan, do brasil. faço front-end: ts, next.js, tailwind. aprendi na marra, um projeto por vez. se quebrar, eu conserto, às 3 da manhã.">
+<img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/box-sobre-pt.svg" width="100%" alt="sou o natthan, do brasil. faço front-end: ts, next.js, tailwind. aprendi na marra, um projeto por vez. se quebrar, eu conserto.">
 
 <img src="https://raw.githubusercontent.com/TVCodelab/TVCodelab/main/assets/divider.svg" width="100%" alt="">
 
